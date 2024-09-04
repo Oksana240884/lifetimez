@@ -1,0 +1,529 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201803 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.lifetimez.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2683                
+POS_VISITOR 3592                
+POS_DAY 6232                
+POS_DOMAIN 7016                
+POS_LOGIN 7246                
+POS_ROBOT 7401                
+POS_WORMS 7867                
+POS_EMAILSENDER 7998                
+POS_EMAILRECEIVER 8141                
+POS_SESSION 8217                
+POS_SIDER 8397                
+POS_FILETYPES 9023                
+POS_DOWNLOADS 9210                
+POS_OS 9281                
+POS_BROWSER 9420                
+POS_SCREENSIZE 10050               
+POS_UNKNOWNREFERER 10124               
+POS_UNKNOWNREFERERBROWSER 10563               
+POS_ORIGIN 10733               
+POS_SEREFERRALS 10870               
+POS_PAGEREFS 11036               
+POS_SEARCHWORDS 11286               
+POS_KEYWORDS 11438               
+POS_MISC 2346                
+POS_ERRORS 11497               
+POS_CLUSTER 7102                
+POS_SIDER_404 11634               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180401001749 43782 9871075 8286645189843
+FirstTime 20180301205912
+LastTime 20180331230026
+LastUpdate 20210203043451 43782 0 43781 0 0
+TotalVisits 89                  
+TotalUnique 66                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 66                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 9 9 25836
+1 3 3 11523 16 17 63741
+2 5 5 35648 9 12 41965
+3 6 6 66277 11 14 34487
+4 3 3 18346 24 44 641903
+5 6 6 63103 19 21 124872
+6 4 4 23770 12 13 60578
+7 1 1 15474 14 14 45328
+8 5 5 8689 26 37 184406
+9 5 13 97144 21 30 120561
+10 3 15 528469 10 11 33665
+11 6 6 54692 24 28 56802
+12 3 3 17947 24 32 69821
+13 9 33 1058438 20 34 129294
+14 2 11 80772 26 41 142165
+15 1 1 286 13 16 35697
+16 13 13 96282 18 21 47989
+17 5 5 27611 40 73 234986
+18 6 26 971838 14 16 55755
+19 3 3 23155 21 34 124583
+20 12 29 579586 14 19 36385
+21 85 97 593841 17 20 47457
+22 11 11 102325 27 30 91816
+23 2 2 19314 19 22 119108
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 66
+82.165.140.254 76 76 48716 20180318214249
+54.67.59.131 11 11 42251 20180331230026
+178.165.42.79 8 64 2443838 20180327160754
+193.106.30.99 6 6 8699 20180326190654
+46.174.114.209 3 3 4601 20180311085931
+91.134.248.235 3 3 31589 20180307020040
+173.254.56.16 3 3 31539 20180328183942
+213.87.149.15 3 3 9776 20180305165413
+109.232.216.139 2 2 16090 20180329203756
+103.80.28.198 2 2 16090 20180322063457
+54.183.165.74 1 1 3843 20180304173010
+52.205.33.135 1 1 15449 20180321113259
+171.244.16.95 2 2 16090 20180319050520
+103.92.25.162 2 2 16090 20180308050453
+91.200.12.91 1 1 2256 20180306044510
+91.206.200.252 2 2 16090 20180321215603
+54.85.13.232 1 1 1857 20180306122223
+195.22.127.224 1 1 1292 20180302091722
+217.168.95.5 2 19 502940 20180301205916
+45.32.233.199 1 1 15474 20180306075812
+185.53.208.14 1 1 15474 20180306165224
+178.137.16.151 2 2 30898 20180328103459
+82.98.139.48 1 1 15449 20180330054048
+51.254.196.109 2 2 16090 20180309210542
+94.130.23.82 1 1 15449 20180309031435
+159.65.24.22 1 1 3839 20180325142520
+154.41.66.34 1 1 15449 20180323110556
+67.227.199.131 2 2 16090 20180331161039
+69.58.178.57 1 1 15449 20180309224958
+93.179.68.150 2 2 7678 20180331170445
+195.74.38.174 2 2 16090 20180319135600
+5.165.7.245 1 13 497558 20180307182734
+205.144.171.185 2 2 16090 20180307201331
+200.175.104.5 2 2 9061 20180306202219
+72.52.251.3 2 2 16090 20180320175135
+107.175.220.151 2 2 16090 20180319222857
+148.251.79.41 2 2 16090 20180309121457
+185.198.167.29 1 1 3845 20180303223417
+103.6.196.138 2 2 16090 20180320094704
+79.170.44.108 2 2 16090 20180324040001
+188.255.20.106 1 9 75917 20180313094736
+91.234.35.10 1 1 15474 20180303051957
+137.226.113.27 1 1 3843 20180302012655
+166.62.126.3 1 1 3841 20180315195654
+85.254.33.24 1 1 15449 20180310133848
+46.188.29.95 1 10 76933 20180313145616
+185.8.173.69 2 2 16090 20180310223733
+104.239.149.11 2 2 7680 20180318062529
+103.200.7.18 2 2 16090 20180329031454
+153.92.0.12 1 1 15449 20180310041302
+94.75.198.108 1 1 15474 20180305223852
+137.226.113.26 1 1 3844 20180301211046
+148.163.124.2 2 2 16114 20180307111118
+62.109.8.153 2 2 15721 20180325161520
+185.5.249.220 1 1 3838 20180319224225
+69.160.38.3 2 2 16090 20180322160447
+67.225.129.251 2 2 16090 20180318200211
+69.89.31.68 2 2 16090 20180330224050
+178.63.46.86 1 1 15449 20180324220138
+34.215.179.19 1 1 15449 20180322031340
+192.145.239.206 1 1 15474 20180304194541
+167.114.209.188 1 1 15474 20180305134343
+139.162.124.104 2 2 16090 20180308183545
+68.71.58.194 1 1 15474 20180304104556
+103.247.11.210 2 2 16090 20180321130620
+64.69.70.48 1 1 15474 20180302202426
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20180301 3 20 506784 2
+20180302 3 3 20609 3
+20180303 4 4 38638 4
+20180304 3 3 34791 3
+20180305 5 5 40724 3
+20180306 10 22 553226 7
+20180307 7 19 545877 4
+20180308 4 4 32180 2
+20180309 7 7 66918 5
+20180310 4 4 46988 3
+20180311 4 4 8442 2
+20180312 1 1 244 1
+20180313 2 19 152850 2
+20180314 1 1 3841 1
+20180315 1 1 3841 1
+20180316 1 1 3841 1
+20180317 1 1 3841 1
+20180318 80 80 72486 4
+20180319 7 7 52108 4
+20180320 5 5 36019 3
+20180321 6 6 63078 4
+20180322 5 5 47629 3
+20180323 4 4 19819 4
+20180324 4 4 46988 3
+20180325 7 39 1456995 5
+20180326 2 2 7680 2
+20180327 2 14 501387 2
+20180328 3 3 31539 2
+20180329 5 5 36020 3
+20180330 3 3 31539 2
+20180331 5 5 27608 3
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 199 301 4494530
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+wordpress 163 535581 20180331230028 0
+yandex 128 391389 20180331131459 45
+googlebot 53 338855 20180321133859 7
+baiduspider 23 187578 20180331092148 0
+no_user_agent 17 178545 20180330063720 0
+unknown 7 2308 20180325220704 7
+bot[\s_+:,\.\;\/\\-] 3 46347 20180312020804 0
+python 2 4281 20180317044246 0
+netcraft 1 15474 20180305225552 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 1
+30s-2mn 1
+15mn-30mn 1
+0s-30s 86
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/xmlrpc.php 102 64885 1 26
+/ 82 845649 77 51
+/wp-login.php 5 15031 3 3
+/seo-copywrayting/ 2 10078 2 2
+/%D0%BA%D0%BE%D0%BD%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0/ 2 7919 1 1
+/wp-includes/wlwmanifest.xml 1 1292 1 1
+/wp-content/themes/twentyfifteen/author-bio.php 1 286 1 1
+/wp-content/plugins/index.php 1 244 1 1
+/wp-content/plugins/jquery-vertical-accordion-menu/skin.php 1 661 0 1
+/wp-includes/locale.php 1 244 1 1
+/wp-content/themes/index.php 1 244 1 1
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 21 117371 0 0
+png 30 82016 0 0
+php 112 81595 0 0
+html 86 863646 0 0
+xml 1 1292 0 0
+js 44 454495 0 0
+jpeg 7 2894115 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 59 0 17800
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+winxp 40
+winlong 3
+winnt 72
+linux 2
+winvista 11
+win7 126
+macosx 19
+winunknown 11
+j2me 1
+Unknown 16
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 33
+chrome22.0.1106.241 9
+safari5.0.2 1
+chrome62.0.3250.0 1
+chrome50.0.2661.75 76
+chrome62.0.3202.94 2
+chrome54.0.2840.71 40
+chrome64.0.3282.186 28
+chrome11.0.696.71 2
+firefox36.0 1
+firefox45.77.20 3
+android 7
+opera9.80 1
+iphone 3
+chrome61.0.3163.100 12
+chrome26.0.1410.65 1
+chrome34.0.1847.116 1
+chrome51.0.2704.84 1
+safari4.6.1 1
+chrome11.0.696.68 1
+chrome16.0.912.75 1
+firefox51.0 2
+msie6.0 1
+firefox34.0 6
+chrome58.0.3029.110 1
+chrome49.0.2623.112 36
+chrome65.0.3325.181 13
+firefox42.0 1
+chrome63.0.3239.132 19
+firefox29.0 2
+mozilla 3
+chrome56.0.2924.87 1
+Unknown 14
+msie10.0 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Poster 20180329203756
+Mozilla/5.0_(compatible;_ips-agent) 20180309224958
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20180302012655
+wp-iphone 20180322063457
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20180301211046
+wp-android 20180329031454
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+wp-windowsphone 20180331161039
+Poster 20180329203756
+Windows_Live_Writer 20180324040001
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 180 180
+From1 2 2
+From2 3 3
+From3 3 3
+From4 11 113
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+https://176.114.0.200:443 2 2
+http://deliverator.ru/reklama/kontekstnaya-reklama-prodvizhenie.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+503 26 12194
+302 21 6308
+500 6 7916
+404 140 832546
+301 8 2860
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 121
+/wp-content/plugins/easyrotator-for-wordpress/prv8.php 1 -
+/ 1 -
+/wp-installation.php 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/wso.php 2 lifetimez.net/wso.php
+/wp-includes/pomo/w7388n.php 1 -
+/wp-includes/css/style.css.php 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-includes/indes.php 1 -
+/wp-includes/js/tinymce/global.php 1 -
+/wp-content/yt.php 1 -
+/.well-known/apple-app-site-association 1 -
+/wp-content/themes/twentysixteen/404.php 2 -
+/wp-content/themes/peekaboo/404.php 1 -
+/blog/wp-admin/setup-config.php 2 -
+/wp-content/plugins/SocketIasrgasfontrol.php 1 -
+/%D0%B8%D0%BC%D0%B8%D0%B4%D0%B6-%D0%BA%D0%BE%D0%BF%D0%B8%D1%80%D0%B0%D0%B9%D1%82/ 1 -
+/wp-content/plugins/func.php 1 -
+/wp-content/themes/CherryFramework/404.php 1 -
+/.git/config 5 -
+/wp-content/themes/classic/404.php 1 -
+/wp-content/plugins/wp-conns.php 1 -
+/wp-content/themes/porto/framework/spyropress-context.php 1 -
+/wp-content/plugins/upgrade-network.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/b.php 1 -
+/wp-content/plugins/thumbnail.php 1 -
+/wp-includes/wp.php 1 lifetimez.net
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/500.php 1 -
+/wp-includes/ID3/comay.php 1 -
+/wp-content/uploads/rnnvhs.php 1 -
+/wp-content/themes/template-parts/content-single.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/plugins/wpfoot.php 1 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/wp-content/themes/better-mag/footer.php 1 -
+/wp-includes/images/hon2our.php 1 -
+/wp-content/themes/agregado/404.php 1 -
+/wp-includes/output.php 1 -
+/wp-json/wp/v2/posts 1 http://deliverator.ru/reklama/kontekstnaya-reklama-prodvizhenie.php
+/wp-includes/js/tinymce/plugins/wpview/diff.php 1 -
+/wp-includes/pomo/7313581d9a.php 1 -
+/wp-content/themes/Aqua/404.php 1 -
+/wp-content/themes/wp-update.php 1 lifetimez.net
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/themes/peekaboo/functions.php 1 -
+/wordpress/wp-admin/setup-config.php 2 -
+/wp-content/plugins/resume-submissions-job-postings/installer.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/cache.php 1 -
+/wp-includes/images/media/rss.php 1 -
+/modx.php 1 -
+/wp-content/themes/BlackPower/404.php 1 -
+/wp-content/themes/hello.php 1 -
+/wp-content/themes/advancesettings/404.php 1 -
+/wp-includes/SimplePie/Decode/HTML/bug.php 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/wp-content/plugins/easyrotator-for-wordpress/up.php 1 -
+/wp-includes/SimplePie/Parse/Parse.php 1 -
+/wp-includes/pomo/index.php 1 -
+/assets/images/search.php 1 -
+/wp-content/plugins/wp-cache.php 1 -
+/wp-includes/theme-compat/myker.php 1 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-includes/theme-compat/umos.php 1 -
+/wp-content/plugins/Malions.php 1 -
+/wp-content/themes/sketch/content-post.php 1 -
+/wp-includes/class.wp-date.php 2 -
+/.well-known/assetlinks.json 1 -
+/wp-includes/css/newgolden.php 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-includes/theme-compat/files.php 1 -
+/wp-includes/Text/Diff/Engine/cache.php 2 -
+/get.php 1 -
+/wp-includes/Text/index.php 1 -
+/wp-includes/class-comments.php 1 -
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/wp-content/themes/sketch/404.php 1 lifetimez.net/wp-content/themes/sketch/404.php
+/wp-content/plugins/temp.php 1 -
+/wp-content/plugins/easyrotator-for-wordpress/a.php 1 -
+/wp-content/uploads/bb.php 1 -
+/wp-content/themes/betheme/404.php 1 -
+/wp-includes/js/general.php 1 -
+/wp/wp-login.php 5 -
+/wp-index.php 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/contact-form-7/license.txt 1 -
+/wp-content/themes/porto/footer.php 1 -
+/wp-admin/css/colors/blue/engine_functions.php 1 -
+/wp-content/plugins/woocommerce-products-filter/lib/simple-ajax-uploader/action.php 1 -
+/wp-includes/pomo/hdweb.php 1 -
+/wp-content/themes/bloggingcream/404.php 1 -
+/wp_honor.php 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/plugins/rnnvhs.php 1 -
+/wp-content/themes/twentyseventeen/footer.php 2 -
+/test.php 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/wp/wp-admin/setup-config.php 2 -
+/wp-content/uploads/index.php 1 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/html5.js 1 http://lifetimez.net/seo-copywrayting/
+/wp-content/themes/twentyseventeen/inc/color-patterns.php 1 -
+/wp-cahce.php 1 -
+/wp-includes/LICENSE.php 1 -
+/wp-content/plugins/log.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-includes/class-walker-nav-menu.php 1 -
+/wp-includse.php 1 -
+/wp-content/plugins/custom-css-js/assets/codemirror/suspect.sys.php 1 -
+/wp-content/plugins/wpmarketplace/readme.txt 1 -
+/wp-content/themes/twentyseventeen/404.php 3 -
+/wp-cokd.php 1 -
+/wp-includes/pomo/so.php 1 -
+/wp-includes/css/info.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-content/plugins/sfn.php 1 -
+/apple-app-site-association 1 -
+/wp-content/themes/cache/404.php 1 -
+/wp-config_bak.php 1 -
+END_SIDER_404

@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/lifetimez.net/webstat"
+AuthUserFile /var/www/lifetime/data/etc/69210622.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

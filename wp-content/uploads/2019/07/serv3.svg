@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:#333333;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="120" y1="151.9998" x2="368" y2="151.9998">
+		<stop  offset="0" style="stop-color:#C40E53"/>
+		<stop  offset="1" style="stop-color:#EC0000"/>
+	</linearGradient>
+	<polygon class="st0" points="368,104 320,88 256,120 208,104 120,136 120,216 368,216 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="416" y1="455.9998" x2="496" y2="455.9998">
+		<stop  offset="0" style="stop-color:#C40E53"/>
+		<stop  offset="1" style="stop-color:#EC0000"/>
+	</linearGradient>
+	<polygon class="st1" points="416,496 416,416 496,416 	"/>
+</g>
+<g>
+	<path class="st2" d="M80,0v336H24c-13.2,0-24,10.8-24,24s10.8,24,24,24h24v8c0,13.2,10.8,24,24,24h8v80h336v-16H96v-64h38.8l2.3-4
+		c2.9-5,10.8-5,13.7,0l2.3,4H176v-16h-14.2c-4.5-5-11-8-17.8-8s-13.3,3-17.8,8H96v-16h257.5c3.3,9.3,12.1,16,22.5,16
+		c9.1,0,16.9-5.1,21-12.6l28,14l51.8-41.4L425,318.6l-28,14c-4.1-7.4-11.9-12.6-21-12.6c-10.4,0-19.2,6.7-22.5,16H96V16h384v400h16
+		V0H80z M24,368c-4.4,0-8-3.6-8-8s3.6-8,8-8h24v16H24z M80,400h-8c-4.4,0-8-3.6-8-8v-8h16V400z M441.2,352H424v16h17.2L423,382.6
+		l-23-11.5v-22.1l23-11.5L441.2,352z M376,336c4.4,0,8,3.6,8,8v32c0,4.4-3.6,8-8,8s-8-3.6-8-8v-32C368,339.6,371.6,336,376,336z
+		 M352,368H64v-16h288V368z"/>
+	<path class="st2" d="M285,143.4l5.9-14.9l-19-7.6l48.4-24.2l47.6,19V40H120v107.8l88-35.2L285,143.4z M252.6,113.2l-13.3-5.3
+		c6-7.4,15-11.9,24.7-11.9c5.2,0,10.3,1.3,14.7,3.7l-26.3,13.2L252.6,113.2z M136,56h216v36.2l-32.4-13L295,91.6
+		c-8.5-7.3-19.4-11.6-31-11.6c-16.3,0-31.3,8.4-40.1,21.8L208,95.4l-72,28.8V56z"/>
+	<rect x="384" y="40" class="st2" width="72" height="16"/>
+	<rect x="384" y="80" class="st2" width="72" height="16"/>
+	<rect x="384" y="120" class="st2" width="72" height="16"/>
+	<rect x="384" y="160" class="st2" width="72" height="16"/>
+	<rect x="384" y="200" class="st2" width="72" height="16"/>
+	<polygon class="st2" points="160,296 160,256 184,256 184,240 120,240 120,256 144,256 144,296 	"/>
+	<rect x="208" y="240" class="st2" width="248" height="16"/>
+	<rect x="208" y="280" class="st2" width="248" height="16"/>
+</g>
+</svg>

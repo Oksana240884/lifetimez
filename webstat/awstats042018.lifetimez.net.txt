@@ -1,0 +1,467 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.lifetimez.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1993                
+POS_TIME 2682                
+POS_VISITOR 3554                
+POS_DAY 5791                
+POS_DOMAIN 6445                
+POS_LOGIN 6675                
+POS_ROBOT 6830                
+POS_WORMS 7296                
+POS_EMAILSENDER 7427                
+POS_EMAILRECEIVER 7570                
+POS_SESSION 7646                
+POS_SIDER 7814                
+POS_FILETYPES 8067                
+POS_DOWNLOADS 8235                
+POS_OS 8306                
+POS_BROWSER 8471                
+POS_SCREENSIZE 9195                
+POS_UNKNOWNREFERER 9269                
+POS_UNKNOWNREFERERBROWSER 9596                
+POS_ORIGIN 9800                
+POS_SEREFERRALS 9934                
+POS_PAGEREFS 10100               
+POS_SEARCHWORDS 10248               
+POS_KEYWORDS 10400               
+POS_MISC 2346                
+POS_ERRORS 10459               
+POS_CLUSTER 6531                
+POS_SIDER_404 10584               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180501004344 44426 9998126 9385084895141
+FirstTime 20180401004609
+LastTime 20180429155845
+LastUpdate 20210203043451 44426 0 44425 0 0
+TotalVisits 72                  
+TotalUnique 56                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 56                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 5 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 6 39859 10 14 29728
+1 1 1 3840 3 5 8507
+2 3 3 19930 5 6 12300
+3 6 11 252335 1 2 33085
+4 5 5 36359 9 28 156058
+5 3 3 11519 7 11 14753
+6 0 0 0 7 11 48307
+7 5 12 107851 7 9 33152
+8 0 0 0 7 10 11095
+9 6 6 51306 8 11 11112
+10 4 4 38578 13 15 72968
+11 4 4 23770 16 19 39979
+12 9 9 36416 30 36 120975
+13 8 8 43820 59 69 198714
+14 4 4 35379 28 36 93814
+15 3 3 7951 43 87 305965
+16 8 8 77154 18 23 111678
+17 7 7 48261 23 27 49325
+18 5 5 47429 11 14 28491
+19 5 5 24210 16 18 62292
+20 2 2 882 9 9 30109
+21 2 2 15926 11 14 35607
+22 7 28 601926 12 16 16894
+23 1 8 72471 8 10 41455
+END_TIME
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 56
+54.67.59.131 10 10 38399 20180429052121
+194.28.112.155 8 8 10324 20180407204736
+85.190.228.246 4 4 796 20180418122428
+167.114.65.240 4 4 61796 20180413162331
+163.172.4.153 3 3 11519 20180425054332
+75.149.221.170 3 3 31879 20180415211251
+185.158.122.244 3 3 4600 20180422132252
+103.67.235.61 2 2 16090 20180412174751
+143.95.38.193 2 2 16090 20180406114238
+23.226.129.102 2 2 16090 20180401004616
+188.138.105.63 1 1 3840 20180426112536
+212.227.221.20 2 2 16090 20180420031809
+91.205.174.229 2 2 16090 20180421045155
+88.99.1.234 2 2 16090 20180413192344
+188.128.152.62 2 2 16090 20180410033504
+178.165.42.79 1 13 497546 20180406223242
+188.255.91.49 1 1 3840 20180415143110
+95.181.179.219 2 2 7679 20180429155845
+95.143.29.61 1 8 72472 20180419075844
+51.254.196.109 1 1 15449 20180419185930
+38.100.21.66 1 1 15449 20180407095218
+159.89.126.221 2 2 632 20180413171050
+67.227.199.131 2 2 16090 20180405002639
+69.58.178.57 1 1 15449 20180408185426
+43.243.118.1 2 2 16090 20180407183134
+54.224.86.53 1 1 3840 20180410135520
+167.99.68.220 1 1 477 20180427215840
+64.77.41.8 2 2 16090 20180409175204
+195.201.17.73 1 6 204706 20180420032111
+137.226.113.33 1 8 72471 20180417231139
+217.160.62.102 2 2 16090 20180408140921
+52.87.86.158 1 1 3840 20180412190717
+188.32.246.155 1 10 76771 20180427220113
+104.192.74.20 2 2 7679 20180412222634
+166.62.126.3 1 1 3840 20180419003649
+51.15.209.146 1 1 15449 20180412094132
+31.192.214.71 2 2 16090 20180421132052
+69.65.33.5 2 2 16090 20180409075923
+165.231.90.174 1 1 3840 20180422105051
+91.219.165.47 1 1 477 20180429090123
+77.37.157.126 1 1 15449 20180423135811
+84.200.25.249 1 1 15449 20180405175638
+185.88.153.6 2 2 16090 20180408222801
+50.87.249.184 1 1 15449 20180420120919
+62.201.220.94 1 1 272 20180426153736
+69.89.31.68 2 2 16090 20180405091745
+91.227.68.47 2 2 30898 20180414104426
+171.25.193.78 1 1 3840 20180406024239
+77.37.157.159 1 1 15449 20180425140810
+37.59.247.21 2 2 16090 20180413021750
+50.87.249.121 1 1 15449 20180414035957
+185.220.101.44 1 1 3840 20180409121911
+5.45.75.6 1 1 15449 20180424070746
+195.201.90.245 1 1 3840 20180423103150
+188.32.131.218 1 1 15449 20180422122005
+173.244.48.79 1 1 3840 20180415075648
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20180401 2 2 16090 1
+20180403 1 1 3839 1
+20180405 5 5 47629 3
+20180406 5 17 521317 4
+20180407 11 11 41863 7
+20180408 7 7 64059 4
+20180409 5 5 36020 3
+20180410 4 4 23770 3
+20180412 7 7 46898 5
+20180413 11 11 98449 5
+20180414 3 3 46347 2
+20180415 3 3 23129 3
+20180416 1 1 3839 1
+20180417 2 9 76311 2
+20180418 4 4 796 1
+20180419 4 11 95600 4
+20180420 4 9 236245 3
+20180421 5 5 36020 3
+20180422 5 5 23889 3
+20180423 3 3 23128 3
+20180424 1 1 15449 1
+20180425 2 2 19288 2
+20180426 3 3 7952 3
+20180427 2 11 77248 2
+20180429 4 4 11997 3
+END_DAY
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 104 144 1597172
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 9
+yandex 124 232522 20180430130330 55
+wordpress 108 27940 20180430130333 0
+googlebot 41 311673 20180420151553 5
+no_user_agent 15 208516 20180426234751 0
+unknown 13 4280 20180427171457 13
+baiduspider 12 75081 20180426062816 0
+bot[\s_+:,\.\;\/\\-] 2 30898 20180401100653 0
+python 1 3840 20180403000425 0
+netcraft 1 15449 20180404211917 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+30s-2mn 1
+0s-30s 69
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 73 684763 64 47
+/xmlrpc.php 20 11971 2 19
+/wp-admin/admin-ajax.php 6 2646 4 4
+/wp-config.php 4 796 1 1
+/imigi-copywrait/ 1 4877 1 1
+END_SIDER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 6
+css 10 52979 0 0
+png 4 11630 0 0
+php 30 15413 0 0
+html 74 689640 0 0
+js 25 414065 0 0
+jpeg 1 413445 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 73 0 22020
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 1
+winxp 4
+winlong 1
+win2000 4
+winnt 24
+linux 11
+winvista 16
+win7 40
+macosx 20
+winunknown 3
+win2003 1
+Unknown 19
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 40
+chrome34.0.1847.137 1
+msie7.0 2
+msie5.01 4
+firefox40.0 1
+firefox7.0.1 1
+chrome54.0.2840.71 20
+firefox25.0 1
+chrome41.0.2228.0 7
+android 4
+chrome55.0.5568.0296 1
+iphone 6
+chrome61.0.3163.100 11
+chrome57.6.1768.6030 3
+chrome51.0.2704.84 1
+firefox56.0 1
+chrome45.0.2454.94 1
+msie6.0 1
+chrome66.0.3349.0 8
+firefox57.0 1
+chrome12.0.702.0 1
+chrome5.0.375.99 2
+firefox34.0 8
+chrome58.0.3029.110 1
+firefox59.0 2
+konqueror3.0 1
+chrome27.0.1453.90 1
+netscape 1
+chrome65.0.3325.181 14
+chrome55.0.2883.87 1
+firefox42.0 1
+chrome63.0.3239.132 8
+mozilla 4
+chrome57.0.2987.133 1
+chrome55.1.6475.1103 1
+chrome40.0.2214.85 1
+Unknown 7
+chrome15.0.860.0 1
+safari10.0 1
+seamonkey 1
+msie10.0 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Mozilla 20180412222634
+Poster 20180409075923
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180413162330
+Mozilla/5.0_(compatible;_ips-agent) 20180408185426
+wp-iphone 20180413192344
+wp-android 20180421132052
+Go-http-client/1.1 20180423103150
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 4
+wp-windowsphone 20180420031809
+Poster 20180409075923
+Go-http-client/1.1 20180423103150
+Windows_Live_Writer 20180408222801
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 86 91
+From1 2 2
+From2 4 4
+From3 0 0
+From4 12 47
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+yandex 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+503 32 15008
+302 7 2961
+301 3 1359
+404 136 633034
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 75
+/wp-content/plugins/document_manager/views/file_download.php 2 -
+/ 29 http://lifetimez.net/
+/sitemap.xml 1 -
+/wp-content/plugins/apikey/apikey.php 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+// 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/wp-content/plugins/paypal-currency-converter-basic-for-woocommerce/proxy.php 2 -
+/wp-content/plugins/db-backup/download.php 2 -
+/wp-content/plugins/apikey/debug-wp.php 1 -
+/wp-content/plugins/robotcpa/f.php 2 -
+/wp-content/plugins/wp-ecommerce-shop-styling/includes/download.php 3 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/tinymce-thumbnail-gallery/php/download-image.php 1 -
+/wp-content/themes/awake/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/plugins/really-simple-guest-post/simple-guest-post-submit.php 3 -
+/wp-content/plugins/s3bubble-amazon-s3-html-5-video-with-adverts/assets/plugins/ultimate/content/downloader.php 2 -
+/wp-content/themes/infocus2/lib/scripts/dl-skin.php 2 -
+/wp-content/plugins/plugin-newsletter/preview.php 1 -
+/wp-content/themes/method/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/dukapress/lib/dp_image.php 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/wp-content/themes/construct/lib/scripts/dl-skin.php 2 -
+/wp-content/themes/trinity/lib/scripts/download.php 2 -
+/wp-content/themes/dejavu/lib/scripts/dl-skin.php 2 -
+/wp-content/plugins/image-export/download.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/wp-content/themes/parallelus-salutation/framework/utilities/download/getfile.php 2 -
+/wp-includes/Text/Tiff.php 1 -
+/wp-content/plugins/simple-download-button-shortcode/simple-download-button_dl.php 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 2 -
+/wp-content/themes/twentyeleven/404.php 1 http://lifetimez.net/wp-content/themes/twentyeleven/404.php
+/wp-content/plugins/pica-photo-gallery/picadownload.php 2 -
+/wp-content/plugins/ibs-mappro/lib/download.php 1 -
+/wp-content/themes/estrutura-basica/scripts/download.php 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/wp-content/themes/lote27/download.php 2 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-content/plugins/mdc-youtube-downloader/includes/download.php 1 -
+/wp-content/themes/urbancity/lib/scripts/download.php 3 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/wp-content/themes/parallelus-mingle/framework/utilities/download/getfile.php 2 -
+/update.php 1 -
+/wp-content/themes/infocus/lib/scripts/dl-skin.php 1 -
+/js/mage/cookies.js 1 lifetimez.net
+/wp-content/themes/elegance/lib/scripts/dl-skin.php 2 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/wp-content/plugins/wp-ps.php 1 -
+/ads.txt 1 -
+/wp-content/force-download.php 2 -
+/wp-content/themes/linenity/functions/download.php 4 -
+/wp-content/themes/fusion/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/wp-content/plugins/cacheformwp.php 3 -
+/wp-content/plugins/candidate-application-form/downloadpdffile.php 1 -
+/wp-content/themes/authentic/includes/download.php 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/themes/antioch/lib/scripts/download.php 2 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-content/plugins/wptf-image-gallery/lib-mbox/ajax_load.php 2 -
+/wp-content/themes/myriad/lib/scripts/dl-skin.php 1 -
+/html5.js 1 http://lifetimez.net/imigi-copywrait/
+/wp-content/plugins/wp-filemanager/incl/libfile.php 1 -
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/wp-content/themes/churchope/lib/downloadlink.php 2 -
+/wp-content/themes/persuasion/lib/scripts/dl-skin.php 1 -
+/wp-content/plugins/aspose-cloud-ebook-generator/aspose_posts_exporter_download.php 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-content/themes/modular/lib/scripts/dl-skin.php 2 -
+/wp-content/plugins/history-collection/download.php 1 -
+/wp-content/themes/epic/includes/download.php 1 -
+/wp-content/themes/echelon/lib/scripts/dl-skin.php 1 -
+END_SIDER_404
